@@ -41,9 +41,8 @@ NHANES_small %>%
   select(bp_sys_ave, education)
 
 NHANES_small %>%
-  rename(
-    bp_sys = bp_sys_ave,
-    bp_dia = bp_dia_ave)
+  rename(bp_sys = bp_sys_ave,
+         bp_dia = bp_dia_ave)
 
 NHANES_small %>%
   select(bmi, contains("age"))
