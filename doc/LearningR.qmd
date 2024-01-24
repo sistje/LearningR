@@ -3,6 +3,25 @@ title: "Reproducible documents"
 author: "Simon Storgaard"
 format: html
 ---
+1. Simon Storgaard
+2. Klinisk epidemiologisk afdeling
+3. Aarhus university hospital
+
+# Intro
+This is the *intro* and it is **short**
+
+# Methods and Results
+This *section* is even **shorter**
+
+## Analysis
+Okay, *you* need to **stop**
+
+# Discussion
+*Come* *on*, **seriously?**
+
+```{r}
+2 + 2
+```
 
 ```{r setup}
 #| message: false
