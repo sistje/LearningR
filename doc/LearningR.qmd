@@ -19,9 +19,15 @@ Okay, *you* need to **stop**
 # Discussion
 *Come* *on*, **seriously?**
 
+# Image Exercise 
+
+![Image from the DDEA website](images/DDEA_logo.jpg){width="50%" height="50%"}
+
+
 ```{r}
 2 + 2
 ```
+
 
 ```{r setup}
 #| message: false
